@@ -1,5 +1,5 @@
 return {
-	bot_api_key = "391493170:AAHzg0wLLRA0Am82dzBkqxHvEkNOZ7IOyY0", --Please add your bot api key here!
+	bot_api_key = "391493170:AAHS6artO2uslrgB56DFRRpQ0jcnHQs0uzw", --Please add your bot api key here!
 	cmd = '^[/!#]',
 	allowed_updates = {"message", "edited_message", "callback_query"},
 	db = 2, --default redis db: 0
@@ -28,9 +28,9 @@ return {
 		realm_max_members = 60,
 		realm_max_subgroups = 6
 	},
-	channel = '@groupbutler_beta', --channel username with the '@'
-	source_code = 'https://github.com/RememberTheAir/GroupButler/tree/beta',
-	help_groups_link = 'telegram.me/GBgroups',
+	channel = '@vpn989', --channel username with the '@'
+	source_code = 'https://github.com/chandra1087/vpn989group/tree/beta',
+	help_groups_link = 'telegram.me/vpn989group',
 	plugins = {
 		'onmessage', --THIS MUST BE THE FIRST: IF AN USER IS FLOODING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
 		'antispam', --SAME OF onmessage.lua
