@@ -35,7 +35,7 @@ else
     fi
     
     echo -e "\e[1;36mFetching latest Group Butler source code (branch: $branch)\e[0m"
-    git clone -b $branch https://github.com/RememberTheAir/GroupButler.git
+    git clone -b $branch https://github.com/chandra1087/vpn989group.git
     
     echo -e "\e[1;32mGroup Butler successfully installed! Change values in config file and run ./launch.sh\e[0m"
     echo " "
