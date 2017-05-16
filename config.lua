@@ -1,5 +1,5 @@
 return {
-	bot_api_key = "391493170:AAHS6artO2uslrgB56DFRRpQ0jcnHQs0uzw", --Please add your bot api key here!
+	bot_api_key = "393911888:AAHFVEH0LTA05sQLY6j9fWwKZ2DlTu7CaEM", --Please add your bot api key here!
 	cmd = '^[/!#]',
 	allowed_updates = {"message", "edited_message", "callback_query"},
 	db = 2, --default redis db: 0
